@@ -1,0 +1,5 @@
+C:\Users\student\Documents\GitHub\C#\DayOne\StandForPresidency\StandForPresidency\bin\Debug\StandForPresidency.exe.config
+C:\Users\student\Documents\GitHub\C#\DayOne\StandForPresidency\StandForPresidency\bin\Debug\StandForPresidency.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\StandForPresidency\StandForPresidency\bin\Debug\StandForPresidency.pdb
+C:\Users\student\Documents\GitHub\C#\DayOne\StandForPresidency\StandForPresidency\obj\Debug\StandForPresidency.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\StandForPresidency\StandForPresidency\obj\Debug\StandForPresidency.pdb

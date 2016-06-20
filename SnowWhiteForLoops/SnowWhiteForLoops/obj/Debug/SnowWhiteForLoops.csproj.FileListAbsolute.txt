@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\C#\DayOne\SnowWhiteForLoops\SnowWhiteForLoops\bin\Debug\SnowWhiteForLoops.exe.config
+C:\Users\student\Documents\GitHub\C#\DayOne\SnowWhiteForLoops\SnowWhiteForLoops\bin\Debug\SnowWhiteForLoops.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\SnowWhiteForLoops\SnowWhiteForLoops\bin\Debug\SnowWhiteForLoops.pdb
+C:\Users\student\Documents\GitHub\C#\DayOne\SnowWhiteForLoops\SnowWhiteForLoops\obj\Debug\SnowWhiteForLoops.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\SnowWhiteForLoops\SnowWhiteForLoops\obj\Debug\SnowWhiteForLoops.pdb
+C:\Users\student\Documents\GitHub\C#\DayOne\SnowWhiteForLoops\SnowWhiteForLoops\obj\Debug\SnowWhiteForLoops.csprojResolveAssemblyReference.cache

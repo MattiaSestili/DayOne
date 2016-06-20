@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\C#\DayOne\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\student\Documents\GitHub\C#\DayOne\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\student\Documents\GitHub\C#\DayOne\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#\DayOne\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb

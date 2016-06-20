@@ -1,0 +1,5 @@
+C:\Users\student\Documents\GitHub\C#\DayOne\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\student\Documents\GitHub\C#\DayOne\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\student\Documents\GitHub\C#\DayOne\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\Arrays\Arrays\obj\Debug\Arrays.pdb

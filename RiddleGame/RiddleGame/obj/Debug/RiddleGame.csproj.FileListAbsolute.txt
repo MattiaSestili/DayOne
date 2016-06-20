@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\C#\DayOne\RiddleGame\RiddleGame\bin\Debug\RiddleGame.exe.config
+C:\Users\student\Documents\GitHub\C#\DayOne\RiddleGame\RiddleGame\bin\Debug\RiddleGame.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\RiddleGame\RiddleGame\bin\Debug\RiddleGame.pdb
+C:\Users\student\Documents\GitHub\C#\DayOne\RiddleGame\RiddleGame\obj\Debug\RiddleGame.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#\DayOne\RiddleGame\RiddleGame\obj\Debug\RiddleGame.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\RiddleGame\RiddleGame\obj\Debug\RiddleGame.pdb
