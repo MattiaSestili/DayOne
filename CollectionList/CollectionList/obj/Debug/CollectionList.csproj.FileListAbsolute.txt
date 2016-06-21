@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionList\CollectionList\bin\Debug\CollectionList.exe.config
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionList\CollectionList\bin\Debug\CollectionList.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionList\CollectionList\bin\Debug\CollectionList.pdb
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionList\CollectionList\obj\Debug\CollectionList.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionList\CollectionList\obj\Debug\CollectionList.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionList\CollectionList\obj\Debug\CollectionList.pdb

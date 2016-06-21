@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionsDictionary\CollectionsDictionary\bin\Debug\CollectionsDictionary.exe.config
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionsDictionary\CollectionsDictionary\bin\Debug\CollectionsDictionary.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionsDictionary\CollectionsDictionary\bin\Debug\CollectionsDictionary.pdb
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionsDictionary\CollectionsDictionary\obj\Debug\CollectionsDictionary.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionsDictionary\CollectionsDictionary\obj\Debug\CollectionsDictionary.exe
+C:\Users\student\Documents\GitHub\C#\DayOne\CollectionsDictionary\CollectionsDictionary\obj\Debug\CollectionsDictionary.pdb
